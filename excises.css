@@ -10,13 +10,10 @@ ul {
 	height: 50px;
 	position: sticky;
 	top: 0px;
-	/* width: 100%vw; */
 	background-color: #648767;
 	display: flex;
-	/* justify-content: s; */
 	align-items: center;
 	list-style: none;
-	/* flex-direction: row; */
 }
 a {
 	text-decoration: none;
@@ -51,12 +48,9 @@ main {
 #title {
 	height: 60px;
 	background-color: #7cdf64;
-	/* color: ; */
 	text-align: center;
 	font-size: 25px;
 	padding-top:a 13px;
-	/* position: sticky;
-    top: 0px; */
 }
 #para1 {
 	padding: 20px 20px;
